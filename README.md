@@ -2,7 +2,7 @@
 - 👀 I’m interested in mastering Frontend Web Development.
 - 🌱 I’m currently learning React .
 - 💞️ I’m looking to collaborate on building Web Apps.
-- 📫 How to reach me: jentahrehema@gmail.com 
+- 📫 How to reach me: jentahrehema7@gmail.com 
 
 
 <!---
