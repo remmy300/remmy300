@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F11&center=true&width=435&lines=👋+Hi,+I'm+Jentah+Rehema+Mwadime;Frontend+Developer;React+Specialist;Open+Source+Advocate" alt="Typing Animation" />
 </h1>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/jentah-rehema-a48a762a8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -55,7 +54,7 @@ I'm a passionate frontend developer with expertise in React and modern JavaScrip
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=remmy300&theme=flat&title=Stars,Commits,PullRequest,Repositories,Followers&margin-w=10&column=6&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=remmy300&theme=gruvbox&title=Stars,Commits,PullRequest,Repositories,Followers&margin-w=10&column=6&no-frame=true" />
 </p>
 
 ---
@@ -63,7 +62,7 @@ I'm a passionate frontend developer with expertise in React and modern JavaScrip
 ## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=remmy300&bg_color=F6D7E3&color=303030&line=0A66C2&point=F24E1E&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=remmy300&bg_color=FFFFFF&color=228B22&line=32CD32&point=2E8B57&area=true&hide_border=true"/>
 </p>
 
 ---
