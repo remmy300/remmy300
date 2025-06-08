@@ -23,7 +23,7 @@
 
 ## 👩🏾‍💻 About Me
 
-I'm a creative and curious **Frontend Developer** passionate about building smooth, responsive, and accessible web apps. I specialize in **React** and enjoy working with clean UI libraries, animations, and API integrations.
+I'm a frontend developer passionate about intuitive user interfaces, clean code, and the React ecosystem. I love collaborating, learning, and turning ideas into delightful digital experiences.
 
 ---
 
@@ -48,7 +48,7 @@ I'm a creative and curious **Frontend Developer** passionate about building smoo
 
 ---
 
-## 📌 Pinned Projects with GIFs
+## 📌 Featured Projects (with GIF Previews)
 
 ### 🍽️ Recipe App  
 Discover recipes from around the world with filters and search.  
@@ -71,7 +71,7 @@ A modern store with cart logic and product display.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=remmy300&show_icons=true&theme=omni&hide_title=true" height="180em" />
@@ -88,25 +88,33 @@ A modern store with cart logic and product display.
 
 ---
 
-## 🌱 Currently Learning & Exploring
-- 🔍 Advanced React patterns & design systems
-- ✨ Framer Motion for animations
-- ⚙️ Firebase for backend & auth
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=remmy300&bg_color=F6D7E3&color=303030&line=0A66C2&point=F24E1E&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 🌱 Currently Exploring
+- ⚛️ Advanced React patterns
+- ✨ Framer Motion animations
+- 🔐 Firebase authentication
 - ♿ Accessibility best practices
 
 ---
 
-## 📬 Reach Out!
+## 📬 Let’s Connect!
 
 <p align="center">
   <a href="mailto:jentahrehema7@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-F6D7E3?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-F6D7E3?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/jentah-rehema-a48a762a8/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-DBE8F1?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-DBE8F1?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="https://twitter.com/JentahR" target="_blank">
-    <img src="https://img.shields.io/badge/Tweet%20Me-CDEDF6?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/>
+    <img src="https://img.shields.io/badge/Twitter-CDEDF6?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/>
   </a>
 </p>
 
