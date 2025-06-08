@@ -43,10 +43,11 @@ I'm a passionate frontend developer with expertise in React and modern JavaScrip
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=remmy300&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=remmy300&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmy300&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=remmy300&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=remmy300&theme=gruvbox_light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmy300&layout=compact&theme=gruvbox_light"/>
 </p>
 
 ---
@@ -54,7 +55,7 @@ I'm a passionate frontend developer with expertise in React and modern JavaScrip
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=remmy300&theme=gruvbox&title=Stars,Commits,PullRequest,Repositories,Followers&margin-w=10&column=6&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=remmy300&theme=pastel&title=Stars,Commits,PullRequest,Repositories,Followers&margin-w=10&column=6&no-frame=true" />
 </p>
 
 ---
@@ -62,7 +63,7 @@ I'm a passionate frontend developer with expertise in React and modern JavaScrip
 ## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=remmy300&bg_color=FFFFFF&color=228B22&line=32CD32&point=2E8B57&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=remmy300&bg_color=FFF5ED&color=FF7F11&line=FFB347&point=FFA07A&area=true&hide_border=true"/>
 </p>
 
 ---
