@@ -1,81 +1,53 @@
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F6D7E3,DBE8F1,CDEDF6,E5F7EF&height=250&section=header&text=Hi%20I'm%20Jentah%20Rehema!%20👩🏾‍💻&fontSize=42&fontColor=303030&animation=fadeIn" />
-</p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=460&lines=Frontend+Developer+💻;React+Specialist+⚛️;Open+Source+Advocate+🌍;UI+Lover+🎨" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F11&center=true&width=435&lines=👋+Hi,+I'm+Jentah+Rehema+Mwadime;Frontend+Developer;React+Specialist;Open+Source+Advocate" alt="Typing Animation" />
 </h1>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jentah-rehema-a48a762a8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-DBE8F1?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jentahrehema7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-F6D7E3?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/JentahR" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-CDEDF6?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👩🏾‍💻 About Me
-
-I'm a frontend developer passionate about intuitive user interfaces, clean code, and the React ecosystem. I love collaborating, learning, and turning ideas into delightful digital experiences.
+## 🚀 About Me
+I'm a passionate frontend developer with expertise in React and modern JavaScript ecosystems. I love building intuitive interfaces, contributing to open source, and sharing knowledge with the developer community.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### Frontend Mastery
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### 🎨 Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Styling & Design
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🔧 Tools & Backend
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📌 Featured Projects (with GIF Previews)
-
-### 🍽️ Recipe App  
-Discover recipes from around the world with filters and search.  
-<img src="https://user-images.githubusercontent.com/130347457/269803014-e28fc8ec-9abf-4f01-991e-460deef9cde4.gif" width="100%" />
-🔗 [Code](https://github.com/remmy300/Recipe-App) · 🌐 [Live](https://recipe-app-black-two.vercel.app/)
-
----
-
-### 🎥 Movie App  
-Explore trending films with a clean interface powered by the TMDB API.  
-<img src="https://user-images.githubusercontent.com/130347457/269803012-1603e5c7-4882-4e68-b36a-17b11e6122e2.gif" width="100%" />
-🔗 [Code](https://github.com/remmy300/MovieApp) · 🌐 [Live](https://movie-app-two-eta-90.vercel.app/)
-
----
-
-### 🛒 E-commerce App  
-A modern store with cart logic and product display.  
-<img src="https://user-images.githubusercontent.com/130347457/269803010-6b567799-43b3-43cd-b8fc-3d166a719c85.gif" width="100%" />
-🔗 [Code](https://github.com/remmy300/Ecommerce) · 🌐 [Live](https://ecommerce-sandy-beta-46.vercel.app/)
+### Backend & Tools
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=remmy300&show_icons=true&theme=omni&hide_title=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=remmy300&theme=omni" height="180em" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=remmy300&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=remmy300&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmy300&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -96,26 +68,35 @@ A modern store with cart logic and product display.
 
 ---
 
-## 🌱 Currently Exploring
-- ⚛️ Advanced React patterns
-- ✨ Framer Motion animations
-- 🔐 Firebase authentication
-- ♿ Accessibility best practices
+## 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **[Recipe App](https://github.com/remmy300/Recipe-App)** | Discover global recipes with search functionality | React, API, Tailwind | [Demo](https://recipe-app-black-two.vercel.app/) |
+| **[Movie App](https://github.com/remmy300/MovieApp)** | Browse trending movies using TMDB API | React, Fetch API, CSS3 | [Demo](https://movie-app-two-eta-90.vercel.app/) |
+| **[E-commerce](https://github.com/remmy300/Ecommerce)** | Shopping cart with product management | React, Context API | [Demo](https://ecommerce-sandy-beta-46.vercel.app/) |
 
 ---
 
-## 📬 Let’s Connect!
+## 🔥 Current Focus
+- Building performant React applications
+- Learning advanced React patterns
+- Contributing to open source projects
+- Improving accessibility in web apps
+
+---
+
+## 📫 Let's Collaborate!
+I'm always open to interesting projects and discussions. Feel free to reach out:
 
 <p align="center">
   <a href="mailto:jentahrehema7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F6D7E3?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/jentah-rehema-a48a762a8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-DBE8F1?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/JentahR" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-CDEDF6?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
-
-
