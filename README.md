@@ -41,13 +41,12 @@ I'm Jentah Rehema a passionate frontend developer with expertise in React and mo
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=remmy300&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=remmy300&theme=gruvbox_light"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmy300&layout=compact&theme=gruvbox_light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=remmy300&show_icons=true&theme=transparent&bg_color=000000&title_color=9370DB&text_color=87CEFA&icon_color=9370DB&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=remmy300&theme=dark&background=000000&ring=9370DB&fire=FF69B4&currStreakLabel=87CEFA"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmy300&layout=compact&theme=transparent&bg_color=000000&title_color=9370DB&text_color=87CEFA"/>
 </p>
 
 ---
@@ -55,7 +54,7 @@ I'm Jentah Rehema a passionate frontend developer with expertise in React and mo
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=remmy300&theme=pastel&title=Stars,Commits,PullRequest,Repositories,Followers&margin-w=10&column=6&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=remmy300&theme=darkhub&title=Stars,Commits,PullRequest,Repositories,Followers&margin-w=10&column=6&no-frame=true&no-bg=true"/>
 </p>
 
 ---
@@ -63,11 +62,10 @@ I'm Jentah Rehema a passionate frontend developer with expertise in React and mo
 ## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=remmy300&bg_color=FFF5ED&color=FF7F11&line=FFB347&point=FFA07A&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=remmy300&bg_color=000000&color=9370DB&line=7B68EE&point=BA55D3&area=true&hide_border=true"/>
 </p>
 
 ---
-
 ## 🌟 Featured Projects
 
 | Project | Description | Tech Stack | Live Demo |
