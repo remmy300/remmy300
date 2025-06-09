@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate frontend developer with expertise in React and modern JavaScript ecosystems. I love building intuitive interfaces, contributing to open source, and sharing knowledge with the developer community.
+I'm Jentah Rehema a passionate frontend developer with expertise in React and modern JavaScript ecosystems. I love building intuitive interfaces, contributing to open source, and sharing knowledge with the developer community.
 
 ---
 
