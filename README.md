@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/remmy300&count_bg=%239370DB&title_bg=%23555555&icon=github.svg&title=visits&edge_flat=false"/>
+  <img src="https://komarev.com/ghpvc/?username=remmy300&label=Profile+Views&color=9370DB&style=flat-square" alt="remmy300" />
 </p>
 
 ---
