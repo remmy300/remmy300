@@ -1,6 +1,18 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F11&center=true&width=435&lines=👋+Hi,+I'm+Jentah+Rehema;Frontend+Developer;React+Specialist;Open+Source+Advocate" alt="Typing Animation" />
-</h1>
+<h1 align="center">Hi, I'm Jentah Rehema 👋</h1>
+
+<h2 align="center">Frontend Developer | React Specialist | UI/UX Enthusiast</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9370DB&center=true&vCenter=true&width=435&lines=React+Developer;Frontend+Engineer;Open+Source+Advocate;Passionate+about+UI/UX+Design;Lifelong+Learner" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/remmy300&count_bg=%239370DB&title_bg=%23555555&icon=github.svg&title=visits&edge_flat=false"/>
+</p>
+
+---
+
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jentah-rehema-a48a762a8/" target="_blank">
@@ -16,31 +28,30 @@
 
 ---
 
-## 🚀 About Me
-I'm Jentah Rehema a passionate frontend developer with expertise in React and modern JavaScript ecosystems. I love building intuitive interfaces, contributing to open source, and sharing knowledge with the developer community.
-
----
-
 ## 🛠️ Tech Stack
 
-### Frontend Mastery
+### 💻 Frontend Mastery
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### Styling & Design
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🎨 Styling & UI Libraries
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-black?style=for-the-badge&logo=vercel&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Backend & Tools
+### 🔧 Backend & Tools
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -66,6 +77,7 @@ I'm Jentah Rehema a passionate frontend developer with expertise in React and mo
 </p>
 
 ---
+
 ## 🌟 Featured Projects
 
 | Project | Description | Tech Stack | Live Demo |
@@ -83,6 +95,7 @@ I'm Jentah Rehema a passionate frontend developer with expertise in React and mo
 - Improving accessibility in web apps
 
 ---
+
 
 ## 📫 Let's Collaborate!
 I'm always open to interesting projects and discussions. Feel free to reach out:
