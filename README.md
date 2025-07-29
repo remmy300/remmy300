@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9370DB&center=true&vCenter=true&width=435&lines=React+Developer;Frontend+Engineer;Open+Source+Advocate;Passionate+about+UI/UX+Design;Lifelong+Learner" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=remmy300&label=Profile+Views&color=9370DB&style=flat-square" alt="remmy300" />
-</p>
+
 
 ---
 
