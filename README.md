@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jentah Rehema 👋</h1>
 
-<h2 align="center">Frontend Developer | React Specialist | MERN Stack Developer | UI/UX Enthusiast</h2>
+<h2 align="center">MERN Stack Developer focused on React, UI/UX, and scalable web solutions</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=React+Developer;MERN+Stack+Engineer;Frontend+Specialist;Open+Source+Contributor;Passionate+about+UI/UX+Design;Lifelong+Learner" alt="Typing Animation" />
