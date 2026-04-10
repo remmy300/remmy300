@@ -109,9 +109,9 @@ Senior MERN & Full-Stack Developer | React & Next.js Specialist | Architecting S
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| **Recipe Sharing App** | A full-stack platform for discovering, sharing, and managing recipes with authentication and dynamic search. | React, Node.js, Express, MongoDB, Tailwind CSS | *Add Link* |
-| **Coffee Shop App** | A modern coffee ordering and management system with an elegant UI and seamless user experience. | Next.js, TypeScript, PostgreSQL, Prisma, Tailwind CSS | *Add Link* |
-| **Grocery Management App** | A scalable full-stack grocery platform with admin dashboards, authentication, and RESTful APIs. | MERN Stack, Redis, PostgreSQL, Prisma | *Add Link* |
+| **Recipe Sharing App** | A full-stack platform for discovering, sharing, and managing recipes with authentication and dynamic search. | React, Node.js, Express, MongoDB, Tailwind CSS | https://recipe-hub-snowy.vercel.app/|
+| **Coffee Shop App** | A modern coffee ordering and management system with an elegant UI and seamless user experience. | Next.js, TypeScript, PostgreSQL, Prisma, Tailwind CSS | https://coffee-app-ed1d.vercel.app/|
+| **Grocery Management App** | A scalable full-stack grocery platform with admin dashboards, authentication, and RESTful APIs. | MERN Stack, Redis, PostgreSQL, Prisma | https://github.com/remmy300/grocery_shop_api.git |
 
 ---
 
